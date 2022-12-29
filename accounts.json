@@ -1,0 +1,42 @@
+[
+  {
+    "application": 1,
+    "emails": ["a@gmail.com", "b@gmail.com"],
+    "name": "A"
+  },
+  {
+    "application": 1,
+    "emails": ["c@gmail.com", "d@gmail.com"],
+    "name": "C"
+  },
+  {
+    "application": 2,
+    "emails": ["a@yahoo.com"],
+    "name": "A"
+  },
+  {
+    "application": 3,
+    "emails": ["a@gmail.com", "a@yahoo.com"],
+    "name": "A"
+  },
+  {
+    "application": 1332,
+    "emails": ["a@gmail.com", "b@gmail.com"],
+    "name": "Alfred"
+  },
+  {
+    "application": 121,
+    "emails": ["f@gmail.com", "d@gmail.com"],
+    "name": "Claire Rudoplf"
+  },
+  {
+    "application": 207,
+    "emails": ["a@yahoo.com"],
+    "name": "John Doe"
+  },
+  {
+    "application": 34,
+    "emails": ["z@gmail.com", "a@yahoo.com"],
+    "name": "Andrew Lacinta"
+  }
+]
